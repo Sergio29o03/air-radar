@@ -1521,6 +1521,21 @@
             "Timestamp": "2024-03-17 17:32:49",
             "Humedad": 71,
             "Temperatura": 27.1
+        },
+        {
+            "Timestamp": "2024-03-25 14:13:26",
+            "Humedad": 71,
+            "Temperatura": 27.1
+        },
+        {
+            "Timestamp": "2024-03-25 14:13:39",
+            "Humedad": 71,
+            "Temperatura": 27.1
+        },
+        {
+            "Timestamp": "2024-03-25 14:13:51",
+            "Humedad": 71,
+            "Temperatura": 27.1
         }
     ]
 }
