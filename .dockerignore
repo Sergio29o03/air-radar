@@ -1,0 +1,16 @@
+README.md
+CHANGELOG.md
+docker-compose.yml
+LICENSE
+.git
+.gitignore
+.githubfrom pydantic import BaseModel
+from typing import Dict
+
+class Measurement(BaseModel):
+    Timestamp: str
+    Humidity: float
+    Temperature: float
+    concentration_CO2: Dict
+    concentration_CO: Dict
+    concentration_NOX: Dict
